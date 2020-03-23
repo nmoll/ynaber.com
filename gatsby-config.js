@@ -9,4 +9,5 @@ module.exports = {
     title: `YNABer`,
     description: `YNABer (Noun): An individual who won’t shut up about the You Need a Budget app`,
   },
+  plugins: [`gatsby-plugin-postcss`],
 }
